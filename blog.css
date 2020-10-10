@@ -1,0 +1,50 @@
+.body {
+	max-width: 1000px;
+	background-color: #f2ded7;
+	margin: auto;
+	border-right: 0px solid grey;
+	border-left: 0px solid grey;
+	padding: 20px;
+	font: sans-serif;
+}
+
+
+.my-blogs {
+	color: white;
+	font-size: 50px;
+	font-family: cursive;
+	font-weight: ;
+	padding-top: px; 
+	padding-right: ;
+	padding: 10px;
+	float: ;
+	display: inline;
+}
+.content {
+	padding-top: px;
+}
+h1 {
+	font-family: sans-serif;
+}
+.header {
+	background-color: #ed1566;
+	display: ;
+	padding: 10px;
+}
+.menu {
+	float: right;
+	font-size: 20px;
+	color: white;
+	font-family: sans-serif;
+	display: inline;
+	margin-bottom: 0px;
+
+}	
+a {
+	text-decoration: none;
+	color: white;
+}
+h6 {
+	color: grey;
+}
+
