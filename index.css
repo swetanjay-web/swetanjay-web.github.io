@@ -1,123 +1,24 @@
-.body {
-	background-color: grey;
-	margin-top: 0px;
-	margin: auto;
-	
+body {
+	margin: 0px;
+	display: flex;
+	background-color: gray;
 }
 .left-bar {
-	text-align: center;
-}
-
-.name {
-	color: #ed1566;
-	font-size: 50px;
-	font-family: sans-serif;
-
-}
-.image {
-	width: 200px;
-	border-radius: 100%;
-	float: left;
-	margin-left: 35%;
-	border: 2px solid #ed1566;
-} 
-
-.content {
-	background-color: white;
-	width: 100%;
-	border-radius: 0px;
-	border-bottom: 2px solid #ed1566;
-	padding-bottom: 8px;
-	padding-top: 8px;
-}
-.bg-col-ph {
-	background-color: grey;
-	height: 100px;
-
-}
-.bg-col-phh {
-	background-color: white;
-	height: 100px;
-
-}
-
-.body-content {
-	color: grey;
-
-}
-.intro-content {
-	background-color: white;
-	width: 100%;
-	border-radius: 0px;
-	border-bottom: 2px solid #ed1566;
-	display: block;
-	padding-bottom: 8px;
-	margin-bottom: 10px;
-	color: grey;
-	padding-top: 100px;
+	width: 25%;
+	background-color: greenyellow;
+	
+	height: 100%;
 }
 .right-bar {
-	background-color: grey;
-	border: 0px solid green;
-}
-.grid {
-	display: grid;
-	grid-template-columns: 70% 30%;
-	grid-column-gap: 10px;
-}
-.nav {
-	position: fixed;
-	display: block;
-	background-color: black;
-	height: 80px;
-	top: 0px;
-	width: 100%;
-}
-.body-items {
-	max-width: 1000px;
-	margin: auto;
-	margin-top: 90px;
-}
-.nav-tab {
-	max-width: 1000px;
-	margin: auto;
-	margin-top: 20px;
-}
-a {
-	text-decoration: none;
-	color: #ed1566;
-}
-.menu {
-	color: white;
-	font-size: 30px;
-	font-family: sans-serif;
-	float: right;
-}
-.logo {
-	font-family: sans-serif;
-	font-size: 30px;
-	display: inline;
-}
-.r-s-b {
-	background-color: white;
-	font-family: sans-serif;
-	margin-bottom: 10px;
-}
-.r-s-b-head {
-	background-color: black;
-	color: white;
-	padding: 8px;
-	text-align: center;
-}
-.social-links-body {
-	color: grey;
-	text-align: center;
-	padding: 8px;
-}
-.blog-links-body {
-	padding: 8px;
-}
-.hello-image {
-	width: 250px;
+	width: 25%;
+	background-color: greenyellow;
 	
+	height: 100%;
+}
+.middle-bar {
+	
+	width: 50%;
+	height: 100%;
+	
+
 }
