@@ -71,7 +71,7 @@
 					My blogs
 				</div>
 				<div class="blog-links-body">
-				<a href="blogs.html">Oh god! why did you gave human 'The Intelligence'?</a>
+				<a href="blog.html">Oh god! why did you gave human 'The Intelligence'?</a>
 				</div>
 			</div>
 			<div class="r-s-b">
