@@ -3,4 +3,7 @@
 	color: #ffffff;
 	max-width: 900px;
 	margin: auto;
+	line-height: 1.8;
+	font-family: monospace;
+	font-size: larger;
 }
